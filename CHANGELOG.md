@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`41089c9`](https://github.com/stdlib-js/stdlib/commit/41089c914fb7b15322bbafed35d3b120f17b0ab1) - update `fft/base/fftpack/float64` TypeScript declarations [(#14580)](https://github.com/stdlib-js/stdlib/pull/14580)
 -   [`00a04aa`](https://github.com/stdlib-js/stdlib/commit/00a04aa41b85986ebcff9dba9f58bd42a36d0b1e) - add `fft/base/fftpack/float64` namespace
 -   [`69e7fc8`](https://github.com/stdlib-js/stdlib/commit/69e7fc82f005a6aaed96d6bdf34515d43d0c5d4e) - add `fft/base/fftpack/float64/cffti` [(#14498)](https://github.com/stdlib-js/stdlib/pull/14498)
 -   [`e8abc79`](https://github.com/stdlib-js/stdlib/commit/e8abc798b8f7e1b520a135826af6805aa4405401) - add `fft/base/fftpack/float64/rffti` [(#14491)](https://github.com/stdlib-js/stdlib/pull/14491)
@@ -25,6 +26,7 @@
 
 <details>
 
+-   [`41089c9`](https://github.com/stdlib-js/stdlib/commit/41089c914fb7b15322bbafed35d3b120f17b0ab1) - **feat:** update `fft/base/fftpack/float64` TypeScript declarations [(#14580)](https://github.com/stdlib-js/stdlib/pull/14580) _(by stdlib-bot)_
 -   [`09f72aa`](https://github.com/stdlib-js/stdlib/commit/09f72aaa0ca90f3f4c9a7b6b9b8ad492e05ef7b9) - **docs:** update namespace table of contents [(#14584)](https://github.com/stdlib-js/stdlib/pull/14584) _(by stdlib-bot)_
 -   [`00a04aa`](https://github.com/stdlib-js/stdlib/commit/00a04aa41b85986ebcff9dba9f58bd42a36d0b1e) - **feat:** add `fft/base/fftpack/float64` namespace _(by Athan Reines)_
 -   [`69e7fc8`](https://github.com/stdlib-js/stdlib/commit/69e7fc82f005a6aaed96d6bdf34515d43d0c5d4e) - **feat:** add `fft/base/fftpack/float64/cffti` [(#14498)](https://github.com/stdlib-js/stdlib/pull/14498) _(by Gunj Joshi, Athan Reines)_
