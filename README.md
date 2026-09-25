@@ -78,6 +78,7 @@ var o = ns;
 
 -   <span class="signature">[`cffti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/float64/cffti]</span><span class="delimiter">: </span><span class="description">initialize a double-precision floating-point workspace array for performing a complex-valued Fourier transform.</span>
 -   <span class="signature">[`decompose( N, M, initial, si, oi, out, so, oo )`][@stdlib/fft/base/fftpack/float64/decompose]</span><span class="delimiter">: </span><span class="description">factorize a sequence length into a product of integers and store the results in a double-precision floating-point array.</span>
+-   <span class="signature">[`rfftf( N, r, strideR, offsetR, w, strideW, offsetW )`][@stdlib/fft/base/fftpack/float64/rfftf]</span><span class="delimiter">: </span><span class="description">compute the forward discrete Fourier transform (DFT) of a real-valued double-precision floating-point sequence.</span>
 -   <span class="signature">[`rffti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/float64/rffti]</span><span class="delimiter">: </span><span class="description">initialize a double-precision floating-point workspace array for performing a real-valued Fourier transform.</span>
 
 </div>
@@ -192,6 +193,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/fft/base/fftpack/float64/cffti]: https://github.com/stdlib-js/fft-base-fftpack-float64-cffti
 
 [@stdlib/fft/base/fftpack/float64/decompose]: https://github.com/stdlib-js/fft-base-fftpack-float64-decompose
+
+[@stdlib/fft/base/fftpack/float64/rfftf]: https://github.com/stdlib-js/fft-base-fftpack-float64-rfftf
 
 [@stdlib/fft/base/fftpack/float64/rffti]: https://github.com/stdlib-js/fft-base-fftpack-float64-rffti
 
