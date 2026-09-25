@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-20)
+## Unreleased (2026-09-25)
 
 <section class="features">
 
 ### Features
 
+-   [`a057051`](https://github.com/stdlib-js/stdlib/commit/a0570515ad18667291362b3eb1cee56c324fd223) - add `rfftf` to namespace
+-   [`80665c4`](https://github.com/stdlib-js/stdlib/commit/80665c43e8c65dcbca37e662eb44341478c96ad1) - add `fft/base/fftpack/float64/rfftf` [(#15333)](https://github.com/stdlib-js/stdlib/pull/15333)
 -   [`b809da8`](https://github.com/stdlib-js/stdlib/commit/b809da80e4dc82c44fc21d2d0709dda190508fb4) - add `fft/base/fftpack/float64/sinqi` [(#14807)](https://github.com/stdlib-js/stdlib/pull/14807)
 -   [`680eb10`](https://github.com/stdlib-js/stdlib/commit/680eb103c3adad94cace14630bdf1113b7721654) - add `fft/base/fftpack/float64/cosqi` [(#14785)](https://github.com/stdlib-js/stdlib/pull/14785)
 -   [`41089c9`](https://github.com/stdlib-js/stdlib/commit/41089c914fb7b15322bbafed35d3b120f17b0ab1) - update `fft/base/fftpack/float64` TypeScript declarations [(#14580)](https://github.com/stdlib-js/stdlib/pull/14580)
@@ -28,6 +30,8 @@
 
 <details>
 
+-   [`a057051`](https://github.com/stdlib-js/stdlib/commit/a0570515ad18667291362b3eb1cee56c324fd223) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
+-   [`80665c4`](https://github.com/stdlib-js/stdlib/commit/80665c43e8c65dcbca37e662eb44341478c96ad1) - **feat:** add `fft/base/fftpack/float64/rfftf` [(#15333)](https://github.com/stdlib-js/stdlib/pull/15333) _(by Gunj Joshi, Athan Reines)_
 -   [`b809da8`](https://github.com/stdlib-js/stdlib/commit/b809da80e4dc82c44fc21d2d0709dda190508fb4) - **feat:** add `fft/base/fftpack/float64/sinqi` [(#14807)](https://github.com/stdlib-js/stdlib/pull/14807) _(by Gunj Joshi)_
 -   [`680eb10`](https://github.com/stdlib-js/stdlib/commit/680eb103c3adad94cace14630bdf1113b7721654) - **feat:** add `fft/base/fftpack/float64/cosqi` [(#14785)](https://github.com/stdlib-js/stdlib/pull/14785) _(by Gunj Joshi)_
 -   [`41089c9`](https://github.com/stdlib-js/stdlib/commit/41089c914fb7b15322bbafed35d3b120f17b0ab1) - **feat:** update `fft/base/fftpack/float64` TypeScript declarations [(#14580)](https://github.com/stdlib-js/stdlib/pull/14580) _(by stdlib-bot)_
