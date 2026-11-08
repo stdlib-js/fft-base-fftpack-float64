@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-25)
+## Unreleased (2026-11-08)
 
 <section class="features">
 
 ### Features
 
+-   [`62cde7f`](https://github.com/stdlib-js/stdlib/commit/62cde7f49867b8fc9a8c9d3e6cd3c4893ace1224) - add `fft/base/fftpack/float64/hc2c` [(#15755)](https://github.com/stdlib-js/stdlib/pull/15755)
 -   [`f359729`](https://github.com/stdlib-js/stdlib/commit/f359729044af2b432f451e293f96451d60080562) - update `fft/base/fftpack/float64` TypeScript declarations [(#15520)](https://github.com/stdlib-js/stdlib/pull/15520)
 -   [`a057051`](https://github.com/stdlib-js/stdlib/commit/a0570515ad18667291362b3eb1cee56c324fd223) - add `rfftf` to namespace
 -   [`80665c4`](https://github.com/stdlib-js/stdlib/commit/80665c43e8c65dcbca37e662eb44341478c96ad1) - add `fft/base/fftpack/float64/rfftf` [(#15333)](https://github.com/stdlib-js/stdlib/pull/15333)
@@ -31,6 +32,8 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
+-   [`62cde7f`](https://github.com/stdlib-js/stdlib/commit/62cde7f49867b8fc9a8c9d3e6cd3c4893ace1224) - **feat:** add `fft/base/fftpack/float64/hc2c` [(#15755)](https://github.com/stdlib-js/stdlib/pull/15755) _(by Gunj Joshi)_
 -   [`ae07386`](https://github.com/stdlib-js/stdlib/commit/ae073862b04de49bc0464c20faa89b3ab0e91023) - **docs:** update namespace table of contents [(#15521)](https://github.com/stdlib-js/stdlib/pull/15521) _(by stdlib-bot)_
 -   [`f359729`](https://github.com/stdlib-js/stdlib/commit/f359729044af2b432f451e293f96451d60080562) - **feat:** update `fft/base/fftpack/float64` TypeScript declarations [(#15520)](https://github.com/stdlib-js/stdlib/pull/15520) _(by stdlib-bot)_
 -   [`a057051`](https://github.com/stdlib-js/stdlib/commit/a0570515ad18667291362b3eb1cee56c324fd223) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
@@ -54,10 +57,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
+-   Philipp Burckhardt
 
 </section>
 
